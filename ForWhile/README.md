@@ -8,7 +8,7 @@ coutlinewithwhile.py counts the number of lines for any text file being entered 
 
 practicecountingnumber Ofword.py counts the number of words in a text file 
 
-summingSeriesofnumbers.py calculates the sum of series of numbers 
+summingSeriesofNumbers.py calculates the sum of series of numbers 
 
-sumofOddnumbers.py calculates the sum of odds numbers
+sum of odd numbers.py calculates the sum of odds numbers
 
